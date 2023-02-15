@@ -3,10 +3,32 @@
     <title>BFG Devices Web</title>
     <link href="https://bfg-devices.github.io/Publii-Web-Test/feed.xml" rel="self" />
     <link href="https://bfg-devices.github.io/Publii-Web-Test" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2023-02-15T07:40:22-08:00</updated>
     <author>
         <name>Brandon Frenzel</name>
     </author>
     <id>https://bfg-devices.github.io/Publii-Web-Test</id>
 
+    <entry>
+        <title>This is a test post</title>
+        <author>
+            <name>Brandon Frenzel</name>
+        </author>
+        <link href="https://bfg-devices.github.io/Publii-Web-Test/this-is-a-test-post.html"/>
+        <id>https://bfg-devices.github.io/Publii-Web-Test/this-is-a-test-post.html</id>
+
+        <updated>2023-02-15T07:40:22-08:00</updated>
+            <summary>
+                <![CDATA[
+                    I dont know how well this works, or not, but we'll see. Not bad... what happens when I save and close it?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I dont know how well this works, or not, but we'll see.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/bfg-pedalboard-2023.jpg" alt="" width="4032" height="1200" sizes="100vw" srcset="https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/responsive/bfg-pedalboard-2023-xs.jpg 300w ,https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/responsive/bfg-pedalboard-2023-sm.jpg 480w ,https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/responsive/bfg-pedalboard-2023-md.jpg 768w ,https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/responsive/bfg-pedalboard-2023-lg.jpg 1024w ,https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/responsive/bfg-pedalboard-2023-xl.jpg 1360w ,https://bfg-devices.github.io/Publii-Web-Test/media/posts/1/responsive/bfg-pedalboard-2023-2xl.jpg 1600w"></figure>
+<p>Not bad... what happens when I save and close it?</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
