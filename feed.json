@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BFG Devices Web",
+    "description": "",
+    "home_page_url": "https://bfg-devices.github.io/BFGD-Website",
+    "feed_url": "https://bfg-devices.github.io/BFGD-Website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Brandon Frenzel"
+    },
+    "items": [
+    ]
+}

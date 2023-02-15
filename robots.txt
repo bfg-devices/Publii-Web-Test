@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bfg-devices.github.io/BFGD-Website/sitemap.xml
